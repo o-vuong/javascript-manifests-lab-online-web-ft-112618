@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
 end
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+# Bundle edge Rails instead: gem 'rails', '>= 7.1.0', github: 'rails/rails'
 gem 'rails'
 gem 'sqlite3', '~>1.3.6'
 # Use SCSS for stylesheets
